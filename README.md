@@ -6,4 +6,11 @@ Implementation of:
 <ol>
 <li>Linked List</li>
 <li>Sorting Algorithms</li>
-<\ol>
+<li>Stacks and Queues</li>
+<li>Trees</li>
+</ol>
+
+Languages Used:
+---------------------------------------------------------------------------------------------------------------------------------------
+<li>C</li>
+<li>C++</li>
